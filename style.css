@@ -1,0 +1,23 @@
+/* style.css */
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+}
+
+.jumbotron {
+    margin-bottom: 0;
+    background-color: #007bff; /* Fundo azul */
+    color: white;
+}
+
+.container h3 {
+    margin-top: 2rem;
+}
+
+ul {
+    list-style-type: square;
+}
+
+footer {
+    background-color: #007bff; /* Fundo azul */
+}
